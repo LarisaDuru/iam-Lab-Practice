@@ -11,13 +11,16 @@ Zero to sec IAM labs
 ## Tools Used
 
 - Microsoft Entra ID
+  
 ** Github ( I created an account on github, not sure if I used the right path or was I supposed to do it with microsoft entra? I would appreciate your feedback on this.
 
 ## What I Built
 
--Repo
--README
--docs and folders
+- Repo
+
+- README
+
+- Docs and Folders
 
 ## Screenshots
 
