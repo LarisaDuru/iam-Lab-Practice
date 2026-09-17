@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-One or two sentences on what this is.
+This is a Lab practice project to give me mastery and understanding on creating, editing, and replacing a READme.
 
 ## Business Scenario
 
-The fictional company and what they needed.
+Zero to sec IAM labs
 
 ## Tools Used
 
@@ -26,4 +26,4 @@ What this taught me about why it matters.
 
 ## Future Improvements
 
-What I would do next, honestly.
+What I would do next, honestly, is to get the mentor's way of inserting a screenshot successfully. I used another way.
