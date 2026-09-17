@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is a Lab practice project to give me mastery and understanding on creating, editing, and replacing a READme.
+This is a Lab practice project. This helps me master the skills of creating a repo, adding a screenshot or image and editing, or replacing a READme. I also learned how to create documents and folders.
 
 ## Business Scenario
 
@@ -11,10 +11,13 @@ Zero to sec IAM labs
 ## Tools Used
 
 - Microsoft Entra ID
+** Github ( I created an account on github, not sure if I used the right path or was I supposed to do it with microsoft entra? I would appreciate your feedback on this.
 
 ## What I Built
 
-The main sections of work.
+-Repo
+-README
+-docs and folders
 
 ## Screenshots
 
