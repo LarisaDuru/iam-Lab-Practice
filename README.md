@@ -1,5 +1,5 @@
 # My IAM Lab Practice
-![image alt](https://github.com/LarisaDuru/iam-Lab-Practice/blob/30911d32664d0524d82da7bc43e0d366d2f1e4ea/screenshots/labpracticeshot.png)
+
 This repo is where I practise before doing the real labs.
 
 ## What I am learning
